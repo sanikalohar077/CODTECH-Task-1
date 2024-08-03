@@ -1,7 +1,7 @@
 # CODTECH-Task-1
 Name - Sanika Lohar
 Compony - CODTECH IT SOLUTION
-Domain Nmae - JAVA programming
+Domain Name - JAVA programming
 Id - CT08DS4240
 Duration - July - August 2024
 
